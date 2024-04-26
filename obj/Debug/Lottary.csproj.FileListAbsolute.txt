@@ -1,0 +1,30 @@
+I:\R&DWing\projects\Lottery\Lottary\bin\Debug\Lottary.exe.config
+I:\R&DWing\projects\Lottery\Lottary\bin\Debug\Lottary.exe
+I:\R&DWing\projects\Lottery\Lottary\bin\Debug\Lottary.pdb
+I:\R&DWing\projects\Lottery\Lottary\obj\Debug\Lottary.Form1.resources
+I:\R&DWing\projects\Lottery\Lottary\obj\Debug\Lottary.Properties.Resources.resources
+I:\R&DWing\projects\Lottery\Lottary\obj\Debug\Lottary.csproj.GenerateResource.cache
+I:\R&DWing\projects\Lottery\Lottary\obj\Debug\Lottary.csproj.CoreCompileInputs.cache
+I:\R&DWing\projects\Lottery\Lottary\obj\Debug\Lottary.exe
+I:\R&DWing\projects\Lottery\Lottary\obj\Debug\Lottary.pdb
+D:\Projects\Lottery\Lottary\bin\Debug\Lottary.exe.config
+D:\Projects\Lottery\Lottary\bin\Debug\Lottary.exe
+D:\Projects\Lottery\Lottary\bin\Debug\Lottary.pdb
+D:\Projects\Lottery\Lottary\obj\Debug\Lottary.csproj.AssemblyReference.cache
+D:\Projects\Lottery\Lottary\obj\Debug\Lottary.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Lottery\Lottary\obj\Debug\Lottary.Form1.resources
+D:\Projects\Lottery\Lottary\obj\Debug\Lottary.Properties.Resources.resources
+D:\Projects\Lottery\Lottary\obj\Debug\Lottary.csproj.GenerateResource.cache
+D:\Projects\Lottery\Lottary\obj\Debug\Lottary.csproj.CoreCompileInputs.cache
+D:\Projects\Lottery\Lottary\obj\Debug\Lottary.exe
+D:\Projects\Lottery\Lottary\obj\Debug\Lottary.pdb
+D:\Raffel Draw\Lottary\bin\Debug\Lottary.exe.config
+D:\Raffel Draw\Lottary\bin\Debug\Lottary.exe
+D:\Raffel Draw\Lottary\bin\Debug\Lottary.pdb
+D:\Raffel Draw\Lottary\obj\Debug\Lottary.csproj.AssemblyReference.cache
+D:\Raffel Draw\Lottary\obj\Debug\Lottary.Form1.resources
+D:\Raffel Draw\Lottary\obj\Debug\Lottary.Properties.Resources.resources
+D:\Raffel Draw\Lottary\obj\Debug\Lottary.csproj.GenerateResource.cache
+D:\Raffel Draw\Lottary\obj\Debug\Lottary.csproj.CoreCompileInputs.cache
+D:\Raffel Draw\Lottary\obj\Debug\Lottary.exe
+D:\Raffel Draw\Lottary\obj\Debug\Lottary.pdb
